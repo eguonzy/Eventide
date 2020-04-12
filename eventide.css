@@ -1,0 +1,93 @@
+  @font-face {
+      font-family: "Q_li";
+      src: url("Blackbird.ttf");
+  }
+  
+  html {
+      background: url(background.png) no-repeat;
+      background-position: right;
+      background-size: 50% 127%;
+  }
+  
+  body {
+      font-family: sans-serif;
+      margin: 20px 20px 20px 50px;
+      width: 50%;
+      color: rgb(98, 95, 95);
+  }
+  
+  .header {
+      color: rebeccapurple;
+      font-family: serif;
+      font-weight: lighter;
+      margin-bottom: 0px;
+      padding-bottom: 0px;
+      font-size: 2.5em;
+  }
+  
+  .plan {
+      font-family: "Q_li";
+      margin-top: 100px;
+      font-weight: lighter;
+      margin-bottom: 500px;
+  }
+  
+  .sign {
+      margin-top: 30px;
+      color: black;
+  }
+  
+  .pgraph {
+      font-weight: lighter;
+  }
+  
+  label {
+      font-size: 0.7em;
+      font-weight: lighter;
+      display: block;
+      margin-bottom: 5px;
+  }
+  
+  .label2 {
+      margin-top: 20px;
+  }
+  
+  .block {
+      display: -webkit-inline-flex
+  }
+  
+  .div2 {
+      margin-left: 8px;
+  }
+  
+  input {
+      height: 35px;
+      width: 245px;
+      border-radius: 5px;
+      background-color: rgb(237, 234, 240);
+  }
+  
+  form a {
+      color: rgb(98, 95, 95);
+  }
+  
+  div a {
+      color: rgb(98, 95, 95);
+      text-decoration: none;
+  }
+  
+  .input3 {
+      width: 502px;
+  }
+  
+  #input3 {
+      margin-top: 10px;
+      width: 503px;
+      height: 50px;
+      background-color: rebeccapurple;
+      border-radius: 7px;
+  }
+  
+  .foot {
+      font-size: 0.7em;
+  }
