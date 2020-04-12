@@ -11,7 +11,7 @@
   
   body {
       font-family: sans-serif;
-      margin: 20px 20px 20px 50px;
+      margin: 20px 20px 20px 20px;
       width: 50%;
       color: rgb(98, 95, 95);
   }
@@ -61,8 +61,7 @@
   }
   
   input {
-      height: 35px;
-      width: 245px;
+      width: 10%;
       border-radius: 5px;
       background-color: rgb(237, 234, 240);
   }
@@ -77,14 +76,12 @@
   }
   
   .input3 {
-      width: 502px;
+      width:50%;
   }
-  form {
- width: 50%;}
+  
   #input3 {
       margin-top: 10px;
-      width: 503px;
-      height: 50px;
+      width: 50%;
       background-color: rebeccapurple;
       border-radius: 7px;
   }
