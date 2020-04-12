@@ -79,7 +79,8 @@
   .input3 {
       width: 502px;
   }
-  
+  form {
+ width: 50%;}
   #input3 {
       margin-top: 10px;
       width: 503px;
